@@ -1,6 +1,7 @@
 # 2024-2025-Master-Timetable
 Hello there!👋 
-😊Welcome to my project which entails creating a school master timetable for the academic year 2024/2025 using HTML for structuring and CSS for styling.
+
+😊Welcome to my project which entails creating a school master timetable for the academic year 2024/2025 using HTML and CSS!
 
 ## 🌟 Features
 - 📅 Structured daiy timetable outlining the lessons for learners in years 7-11
